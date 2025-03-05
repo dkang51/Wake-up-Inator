@@ -5,8 +5,8 @@
 #include <time.h>
 
 // Network credentials
-const char* WIFI_SSID = "mitchellvibes17";
-const char* WIFI_PASSWORD = "classinsesh22";
+const char* WIFI_SSID = "----";
+const char* WIFI_PASSWORD = "----";
 
 // Task execution Arduino IP and port
 const char* TASK_ARDUINO_IP = "192.168.1.101";
